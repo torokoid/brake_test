@@ -166,10 +166,10 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
-    <div class="yellow"><h2>市内の公園に行くと、獲物(子とかげ？)をくわえたワニサイズのトカゲが足元を走りぬけます。</h2></div>
+<div class="yellow"><h2>市内の公園に行くと、獲物(子とかげ？)をくわえたワニサイズのトカゲが足元を走りぬけます。</h2></div>
 <a href="https://torokoid.github.io/2023_thailand/hakone_1.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_1.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2023_thailand/hakone_2.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_2.JPG" alt="サンプル画像" width="900" /></a>
-    <div class="yellow"><h2>街の至るところに仏壇があります、一般のご家庭では少し小さいサイズになります。</h2></div>
+<div class="yellow"><h2>街の至るところに仏壇があります、一般のご家庭では少し小さいサイズになります。</h2></div>
 <a href="https://torokoid.github.io/2023_thailand/JARI_1.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/JARI_1.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
