@@ -114,10 +114,11 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
-<h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 定年後に時間を過ごすタイの日常光景を紹介します。羽田 !!!</font></marquee></h1>
+<h1><marquee bgcolor="#ffff00"><font color="#ff0000">!!! 入社直後で印象に残った、ブレーキの実車テストの思い出です。羽田 !!!</font></marquee></h1>
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-	
+
+<!--
 <h1><span class="snow">社歴等</span></h1>
 <div class="yellow"> 
 <h1>1983年定期採用、オールホンダで600人採用、HGに300人採用された中の一人。<br>
@@ -150,6 +151,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
     配属メンバーはほぼ東口側に住んで柳田街道で出社しますが、途中から砂利道。<br>
     橋を渡ると左折して山道を分け入っての通勤でした。</h2></div>
 <a href="https://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=1311047&isDetail=false" target="_blank"><img src="https://torokoid.github.io/2023_thailand/1984_Map_3.JPG" alt="サンプル画像" width="900" /></a>
+-->
 
 <h1><span class="snow">本資料の概要</span></h1>
 <div class="yellow"> 
@@ -163,16 +165,14 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
-<div class="yellow"> 
-<h2>2023/02/18~26, Thailand！&emsp;&emsp;&emsp;バンコク、パタヤ、チェンライエリア情報<br>
-バンコクの初日の宿、裏の川にはワニのサイズのトカゲが居るとのこと。</h2></div>
-<a href="https://hamata636.github.io/2023thailand/Thailand_000.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
+
     <div class="yellow"><h2>市内の公園に行くと、獲物(子とかげ？)をくわえたワニサイズのトカゲが足元を走りぬけます。</h2></div>
 <a href="https://torokoid.github.io/2023_thailand/hakone_1.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_1.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2023_thailand/hakone_2.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_2.JPG" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>街の至るところに仏壇があります、一般のご家庭では少し小さいサイズになります。</h2></div>
 <a href="https://hamata636.github.io/2023_thailand/JARI_1.JPG" data-lightbox="abc"><img src="https://hamata636.github.io/2023_thailand/JARI_1.JPG" alt="サンプル画像" width="900" /></a>
 
+<!--
 <br><br><br><br><br> 
 <a href="https://hamata636.github.io/2023thailand/Thailand_081.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_081.jpg" alt="サンプル画像" width="900" /></a>
     <div class="yellow"><h2>タイ人達の車のインパネには、ほぼ漏れなく仏像が鎮座、<br>この車にはルームミラーからもぶら下がってます</h2></div>
@@ -381,7 +381,7 @@ APRSとはアマチュア無線機でGPS情報を共有する仕組みですが�
 	
 <br><br>
 <h2><span class="red"><a href="https://yamap.com/activities/3245546" target="_blank" class="p"><p>APRSの簡単説明、5分でわかるAPRS,リンク</p></a></span></h2>
-
+-->
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
