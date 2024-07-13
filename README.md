@@ -153,7 +153,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="https://mapps.gsi.go.jp/contentsImageDisplay.do?specificationId=1311047&isDetail=false" target="_blank"><img src="https://torokoid.github.io/2023_thailand/1984_Map_3.JPG" alt="サンプル画像" width="900" /></a>
 -->
 
-<h1><span class="snow">入社直後に配属された7K, BrakeGrで印象に残った業務内容</span></h1>
+<h1><span class="blue">入社直後に配属された7K, BrakeGrで印象に残った業務内容</span></h1>
 <div class="yellow"> 
 <h1>1983年10月に栃木配属、その後２ヶ月の実習期間を経てBrakeGrに正式配属。<br>
 当初は市場クレーム頻発中のブレーキ鳴きの研究解析チームで解析業務。<br>今でも運転中に自車や周辺車のブレーキ鳴きが聞こえてしまう職業病は治らず。<br>
@@ -168,8 +168,12 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 
 <div class="yellow"><h2>箱根ターンパイクの下り坂を使って、ブレーキの熱容量の妥当性を確認します。</h2></div>
 <a href="https://torokoid.github.io/2023_thailand/hakone_1.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_1.JPG" alt="サンプル画像" width="900" /></a>
+<div class="yellow"><h2>ターンパイクは夜間は閉鎖されるので、道路事業者と夜間専用使用の取り決め。<br>
+通行料などを徴収する管理事務所に一升瓶を持参してご挨拶からスタート。<br>
+次の重要業務はブレーキの組み替えなどを行うパーキングに残ったアベック車両の追い出し。</h2></div>
 <a href="https://torokoid.github.io/2023_thailand/hakone_2.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_2.JPG" alt="サンプル画像" width="900" /></a>
-<div class="yellow"><h2>JARIの高速周回路で最高速からのブレーキテスト。<br>規程の距離内で止まれないと法規フェール。</h2></div>
+<div class="yellow"><h2>JARIの高速周回路で最高速からのブレーキテスト。<br>規程の距離内で止まれないと法規フェール。<br>
+最も危険なのは一系統失陥高速ブレーキテスト。</h2></div>
 <a href="https://torokoid.github.io/2023_thailand/JARI_1.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/JARI_1.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
