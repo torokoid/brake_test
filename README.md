@@ -158,7 +158,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <h1>1983年10月に栃木配属、その後２ヶ月の実習期間を経てBrakeGrに正式配属。<br>
 当初は市場クレーム頻発中のブレーキ鳴きの研究解析チームで解析業務。<br>今でも運転中に自車や周辺車のブレーキ鳴きが聞こえてしまう職業病は治らず。<br>
 50代に入ると10,000Hz超えの高周波は聞こえなくなったは救い。<br>
-ブレーキ鳴きの仕事はメンバー入れ替えで、<br>その後は実車テスト部隊として様々なテスト業務に。<br>
+ブレーキ鳴きの仕事はメンバー入れ替えになり、<br>その後は実車テスト部隊として様々なテスト業務に。<br>
 中でも印象に残ったのは、箱根降坂テストと、JARIの高速ブレーキテスト。<br>
 以下触りの部分のみですが、ざっと紹介させて頂きます。</h1></div>
 	
@@ -166,10 +166,10 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
-<div class="yellow"><h2>市内の公園に行くと、獲物(子とかげ？)をくわえたワニサイズのトカゲが足元を走りぬけます。</h2></div>
+<div class="yellow"><h2>箱根ターンパイクの下り坂を使って、ブレーキの熱容量の妥当性を確認します。</h2></div>
 <a href="https://torokoid.github.io/2023_thailand/hakone_1.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_1.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2023_thailand/hakone_2.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_2.JPG" alt="サンプル画像" width="900" /></a>
-<div class="yellow"><h2>街の至るところに仏壇があります、一般のご家庭では少し小さいサイズになります。</h2></div>
+<div class="yellow"><h2>JARIの高速周回路で最高速からのブレーキテスト。<br>規程の距離内で止まれないと法規フェール。</h2></div>
 <a href="https://torokoid.github.io/2023_thailand/JARI_1.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/JARI_1.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
