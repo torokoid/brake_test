@@ -174,6 +174,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="https://torokoid.github.io/2023_thailand/hakone_2.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/hakone_2.JPG" alt="サンプル画像" width="900" /></a>
 <div class="yellow"><h2>JARIの高速周回路で最高速からのブレーキテスト。<br>規程の距離内で止まれないと法規フェール。<br>
 最も危険なのは一系統失陥高速ブレーキテスト。</h2></div>
+<a href="brake1.JPG" data-lightbox="abc"><img src="brake1.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/2023_thailand/JARI_1.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/2023_thailand/JARI_1.JPG" alt="サンプル画像" width="900" /></a>
 
 <!--
