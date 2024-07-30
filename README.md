@@ -183,7 +183,7 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <div class="yellow"><h2>S58年頃の通勤路。</h2></div>
 <a href="kyuu2.JPG" data-lightbox="abc"><img src="kyuu2.JPG" alt="サンプル画像" width="900" /></a>
 
-<div class="yellow"><h2>S58年頃の通勤路。</h2></div>
+<div class="yellow"><h2>S58年頃の通勤路風景。</h2></div>
 <a href="kyuu.JPG" data-lightbox="abc"><img src="kyuu.JPG" alt="サンプル画像" width="900" /></a>
 
 <div class="yellow"><h2>宮内庁、御料牧場の直線道路。</h2></div>
