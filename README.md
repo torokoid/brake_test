@@ -189,6 +189,14 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <div class="yellow"><h2>宮内庁、御料牧場の直線道路。</h2></div>
 <a href="goryou.JPG" data-lightbox="abc"><img src="goryou.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br><br> 
+
+<div class="yellow"><h2>S58年10月に最初に住んだところ。</h2></div>
+<a href="heya2.JPG" data-lightbox="abc"><img src="heya2.JPG" alt="サンプル画像" width="900" /></a>
+
+<div class="yellow"><h2>周辺は整地されていましたが、アパートはまだありました。</h2></div>
+<a href="heya.JPG" data-lightbox="abc"><img src="heya.JPG" alt="サンプル画像" width="900" /></a>
+
 
 
 <!--
