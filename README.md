@@ -180,11 +180,16 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 
 <br><br><br><br><br> 
 
-<div class="yellow"><h2>宮内庁、御料牧場の直線道路。</h2></div>
-<a href="goryou.JPG" data-lightbox="abc"><img src="goryou.JPG" alt="サンプル画像" width="900" /></a>
+<div class="yellow"><h2>S58年頃の通勤路。</h2></div>
+<a href="kyuu2.JPG" data-lightbox="abc"><img src="kyuu2.JPG" alt="サンプル画像" width="900" /></a>
 
 <div class="yellow"><h2>S58年頃の通勤路。</h2></div>
 <a href="kyuu.JPG" data-lightbox="abc"><img src="kyuu.JPG" alt="サンプル画像" width="900" /></a>
+
+<div class="yellow"><h2>宮内庁、御料牧場の直線道路。</h2></div>
+<a href="goryou.JPG" data-lightbox="abc"><img src="goryou.JPG" alt="サンプル画像" width="900" /></a>
+
+
 
 <!--
 <a href="https://hamata636.github.io/2023thailand/Thailand_081.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_081.jpg" alt="サンプル画像" width="900" /></a>
