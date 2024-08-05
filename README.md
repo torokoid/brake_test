@@ -200,8 +200,8 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="20240731_002.JPG" data-lightbox="abc"><img src="20240731_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240731_001.JPG" data-lightbox="abc"><img src="20240731_001.JPG" alt="サンプル画像" width="900" /></a>
 
-
-
+<div class="yellow"><h2>当時は全く想像できなかったLRT。</h2></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNlAnME3SUE?si=VX74ye_ueC9wsC1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <!--
 <a href="https://hamata636.github.io/2023thailand/Thailand_081.jpg" data-lightbox="abc"><img src="https://hamata636.github.io/2023thailand/Thailand_081.jpg" alt="サンプル画像" width="900" /></a>
