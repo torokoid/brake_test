@@ -194,8 +194,12 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <div class="yellow"><h2>S58年10月に最初に住んだところ。</h2></div>
 <a href="heya2.JPG" data-lightbox="abc"><img src="heya2.JPG" alt="サンプル画像" width="900" /></a>
 
-<div class="yellow"><h2>周辺は整地されていましたが、アパートはまだありました。</h2></div>
+<div class="yellow"><h2>周辺は整地されていましたが、アパートはまだありました。(GoogleMaps映像)</h2></div>
 <a href="heya.JPG" data-lightbox="abc"><img src="heya.JPG" alt="サンプル画像" width="900" /></a>
+<div class="yellow"><h2>定時退社で実際に現地確認した映像。</h2></div>
+<a href="20240731_002.JPG" data-lightbox="abc"><img src="20240731_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240731_001.JPG" data-lightbox="abc"><img src="20240731_001.JPG" alt="サンプル画像" width="900" /></a>
+
 
 
 
