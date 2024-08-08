@@ -206,16 +206,23 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <br><br><br><br><br><br><br><br><br><br>
 
 <div class="yellow"> 
-<h1>定年前の有休消化で平日の宇都宮市内をうろついてみました。<br>
-現役時代には土日にしか行かなかった、ショッピングモールなどは土日とは別世界。<br>
+<h1>定年前の有休消化で平日の宇都宮市内を散策。<br>
+現役時代には土日にしか行かなかったショッピングモールなどは、土日とは別世界。<br>
 軽食コーナーは主婦と夏休みの子供達で埋め尽くされています。<br>
 </h1></div>
 
 <a href="20240808_001.JPG" data-lightbox="abc"><img src="20240808_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240808_002.JPG" data-lightbox="abc"><img src="20240808_002.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br><br>
 
+<div class="yellow"> 
+<h1>女の子たちはショッピングモールが大好き。<br>
+男の子たちは見当たりません。<br>
+</h1></div>
 
+<a href="20240808_003.JPG" data-lightbox="abc"><img src="20240808_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240808_007.JPG" data-lightbox="abc"><img src="20240808_007.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
