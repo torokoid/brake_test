@@ -224,6 +224,22 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="20240808_003.JPG" data-lightbox="abc"><img src="20240808_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240808_007.JPG" data-lightbox="abc"><img src="20240808_007.JPG" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br><br>
+
+<div class="yellow"> 
+<h1>意外と目立つのは、この方々。<br>
+健康そうですが、現役ではないですね〜。<br>
+</h1></div>
+
+<a href="20240808_004.JPG" data-lightbox="abc"><img src="20240808_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240808_005.JPG" data-lightbox="abc"><img src="20240808_005.JPG" alt="サンプル画像" width="900" /></a>
+
+<div class="yellow"> 
+<h1>本屋さんの前のベンチは埋め尽くされてます。<br>
+</h1></div>
+
+<a href="20240808_006.JPG" data-lightbox="abc"><img src="20240808_006.JPG" alt="サンプル画像" width="900" /></a>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
