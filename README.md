@@ -248,10 +248,15 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 <a href="20240821_002.JPG" data-lightbox="abc"><img src="20240821_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <div class="yellow"> 
-<h1>とりあえずPC持ち込んでSNS、<br>平日の日中に常駐してる人、ほぼIT業界の人たち。<br>
+<h1>とりあえずPC持ち込んでSNS、<br>平日の日中にNET常駐してる人、ほぼIT業界の人たち。<br>
 </h1></div>
 
 <a href="20240821_003.JPG" data-lightbox="abc"><img src="20240821_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<div class="yellow"> 
+<h1>修行を積むとボ〜っと座っていられるらしい。<br>
+</h1></div>
+
 <a href="20240821_004.JPG" data-lightbox="abc"><img src="20240821_004.JPG" alt="サンプル画像" width="900" /></a>
 
 
