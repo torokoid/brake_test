@@ -240,6 +240,16 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 
 <a href="20240808_006.JPG" data-lightbox="abc"><img src="20240808_006.JPG" alt="サンプル画像" width="900" /></a>
 
+<div class="yellow"> 
+<h1>ここに割り込むのはまだ無理、比較的オープンな軽食スペースで予行練習。<br>
+</h1></div>
+
+<a href="20240821_001.JPG" data-lightbox="abc"><img src="20240821_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240821_002.JPG" data-lightbox="abc"><img src="20240821_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240821_003.JPG" data-lightbox="abc"><img src="20240821_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240821_004.JPG" data-lightbox="abc"><img src="20240821_004.JPG" alt="サンプル画像" width="900" /></a>
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
