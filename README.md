@@ -259,6 +259,19 @@ D室課に戻ってCMBSの量産適用を見極めてホッとしたところで
 
 <a href="20240821_004.JPG" data-lightbox="abc"><img src="20240821_004.JPG" alt="サンプル画像" width="900" /></a>
 
+<div class="yellow"> 
+<h1>すこし涼しくなったので、近所の公園もチェック。<br>
+</h1></div>
+
+<a href="20240827_001.JPG" data-lightbox="abc"><img src="20240827_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240827_002.JPG" data-lightbox="abc"><img src="20240827_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240827_003.JPG" data-lightbox="abc"><img src="20240827_003.JPG" alt="サンプル画像" width="900" /></a>
+
+<div class="yellow"> 
+<h1>図書館も有力候補。<br>
+</h1></div>
+
+<a href="20240827_004.JPG" data-lightbox="abc"><img src="20240827_004.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
